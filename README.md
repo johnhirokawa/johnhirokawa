@@ -1,7 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm John! <br/><a href="https://github.com/johnhirokawa">Programmer</a>, <a href="https://www.linkedin.com/in/john-hirokawa">Cybersecurity Professional</a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>PowerShell</b>
+  - [Employee Separation Script](https://google.com)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Sample Video](https://www.youtube.com/)
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/john-hirokawa
 
 <!--
-**johnhirokawa/johnhirokawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+0
+:
+00
+
