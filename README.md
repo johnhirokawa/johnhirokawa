@@ -22,11 +22,9 @@
 
 - [Sample Video](https://www.youtube.com/) -->
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 How to reach me:</h2>
 
-
-
-[<img align="left" alt="john-hirokawa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="john-hirokawa | LinkedIn" src="https://github.com/johnhirokawa/johnhirokawa/blob/main/assets/connect-on-LinkedIn-button.png" style="width: 20%;" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/john-hirokawa
 
@@ -42,7 +40,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-0
-:
-00
 
