@@ -6,8 +6,10 @@
   - [Employee Separation Script](https://google.com)
  
 <h2>👨‍💻 System Administration Projects:</h2>
+
 - <b>PowerShell</b>
   - [Exchange - Add Emails to Distribution List](https://github.com/johnhirokawa/ms-powershell-scripts/blob/main/scripts/Exch_Add_Emails_to_Dist.ps1)
+
 - <b>Bash</b>
   - [Chrome - Cache & Cookies - FORCE](https://github.com/johnhirokawa/mosyle-bash-scripts/blob/main/scripts/clear_chrome_cache_force.sh)
   - [Chrome - Clear Cache & Cookies /w User Confirmation](https://github.com/johnhirokawa/mosyle-bash-scripts/blob/main/scripts/clear_chrome_cache_wprompt.sh)
